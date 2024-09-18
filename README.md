@@ -1,4 +1,4 @@
-# Attrition Rate Analysis
+# ATTRITION RATE ANALYSIS
 
 ## Introduction:
 This is a Power BI project on investigating key indicators that can lead to attrition rate in the organisation. The project is to analyze and derive insight to answer crucial questions and drive decision making. 
